@@ -1,2 +1,2 @@
 # doctor-who-stremio
-An Addon Doctor Who Blu-ray based catalogue for Stremio
+An Stremio Addon for Doctor Who Blu-ray based catalogue using the TMDB API
